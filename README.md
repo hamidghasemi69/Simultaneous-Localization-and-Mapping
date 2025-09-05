@@ -8,9 +8,9 @@ This project demonstrates the implementation of the Simultaneous Localization an
 
 ## Project Overview
 
-- **Objective**: Implement SLAM to enable a robot to navigate and map an unknown environment in 2D.
-- **Approach**: Utilize a combination of motion models and sensor data to estimate the robot's position and map the environment.
-- **Environment**: Simulated 2D world with predefined landmarks.
+- **`Objective`**: Implement SLAM to enable a robot to navigate and map an unknown environment in 2D.
+- **`Approach`**: Utilize a combination of motion models and sensor data to estimate the robot's position and map the environment.
+- **`Environment`**: Simulated 2D world with predefined landmarks.
 
 ---
 
