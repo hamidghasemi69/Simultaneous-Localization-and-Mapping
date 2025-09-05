@@ -25,16 +25,6 @@ This project demonstrates the implementation of the Simultaneous Localization an
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following libraries installed:
-
-`pip install numpy matplotlib`
-
----
-
 ## Running the Notebooks
 
 1. Clone the repository:
