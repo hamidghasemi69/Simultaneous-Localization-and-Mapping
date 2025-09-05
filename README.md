@@ -29,9 +29,9 @@ This project demonstrates the implementation of the Simultaneous Localization an
 
 1. Clone the repository:
    
-  `git clone https://github.com/hamidghasemi69/Simultaneous-Localization-and-Mapping.git`
+      `git clone https://github.com/hamidghasemi69/Simultaneous-Localization-and-Mapping.git`
   
-  `cd Simultaneous-Localization-and-Mapping`
+     `cd Simultaneous-Localization-and-Mapping`
 
 2. Open the Jupyter notebooks:
    `jupyter notebook`
