@@ -16,12 +16,12 @@ This project demonstrates the implementation of the Simultaneous Localization an
 
 ## Repository Structure
 
-- **Robot Moving and Sensing.ipynb** — Jupyter notebook for simulating robot movement and sensor readings.
-- **Omega and Xi, Constraints.ipynb** — Jupyter notebook for defining and calculating constraints in the SLAM process.
-- **Landmark Detection and Tracking.ipynb** — Jupyter notebook for detecting and tracking landmarks in the environment.
-- **Zip Your Project Files and Submit.ipynb** — Jupyter notebook for preparing and submitting the project files.
-- **helpers.py** — Python script containing helper functions for the SLAM implementation.
-- **robot_class.py** — Python script defining the robot class and its methods.
+- **`Robot Moving and Sensing.ipynb`** — Jupyter notebook for simulating robot movement and sensor readings.
+- **`Omega and Xi, Constraints.ipynb`** — Jupyter notebook for defining and calculating constraints in the SLAM process.
+- **`Landmark Detection and Tracking.ipynb`** — Jupyter notebook for detecting and tracking landmarks in the environment.
+- **`Zip Your Project Files and Submit.ipynb`** — Jupyter notebook for preparing and submitting the project files.
+- **`helpers.py`** — Python script containing helper functions for the SLAM implementation.
+- **`robot_class.py`** — Python script defining the robot class and its methods.
 
 ---
 
